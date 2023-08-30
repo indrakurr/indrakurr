@@ -1,4 +1,4 @@
-Hi My name is Indra Kurniawan 👋
+Hi My name is Indra Kurniawan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ================================
 
 I'm actually a graphic designer:)
